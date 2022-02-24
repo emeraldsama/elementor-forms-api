@@ -1,5 +1,5 @@
 # How to Integrate Elementor Forms with any API (almost)
-The following code snuppet will send elementor form data to a third party API. It uses a simple elementor form action hook to send JSON formmatted data using the POST method to a public API, and authenticates the request using your API key in the header. It works great for adding or updating contacts to a CRM or email marketing service. Thiscode is pretty much straight out of elmentor's developer docs, but with more background info and instructions for a beginner or intermediate user.
+The following code snippet will send elementor form data to a third party API. It uses a simple elementor form action hook to send JSON formmatted data using the POST method to a public API, and authenticates the request using your API key in the header. It works great for adding or updating contacts to a CRM or email marketing service. Thiscode is pretty much straight out of elmentor's developer docs, but with more background info and instructions for a beginner or intermediate user.
 
 ### Requirements:
 - Wordpress
